@@ -4,7 +4,21 @@ Check back for further updates :p
 Estimated Completion: 8%
 
 (Jan-17-2019) Finished Spawnpoints Command Tutorial
-(Jan-18-2019) Wrapping up Spawnpoint Commands, working on FileLoader methods, saving configurations, and loading settings.
-(Jan-19-2019) Beginning work on auto-spawning based on the spawnpoints. Smoothed out the spawnpoint editor.
-(Jan-20-2019) Spawnpoints' auto-spawning finished, adding more options and args to the spawnpoint command...
-(Jan-21-2019) Plugin loads default values into the MobSettings.yml file... Added controls and toggles for Natural Spawns... (more on that later)
+
+(Jan-18-2019) 
+- Wrapping up Spawnpoint Commands, working on FileLoader methods, saving configurations, and loading settings.
+
+(Jan-19-2019) 
+- Beginning work on auto-spawning based on the spawnpoints. Smoothed out the spawnpoint editor.
+
+(Jan-20-2019) 
+- Spawnpoints' auto-spawning finished, adding more options and args to the spawnpoint command...
+
+(Jan-21-2019) 
+- Plugin loads default values into the MobSettings.yml file...
+- Added controls and toggles for Natural Spawns... (more on that later)
+
+(Jan-22-2019)
+- Starting work on Mobs' AI.
+this will be the starting point for forced mob-aggro, air-bridging to players, 
+climbing/building over walls and obstacles... and loads more!
