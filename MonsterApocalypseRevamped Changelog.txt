@@ -22,3 +22,10 @@ Estimated Completion: 8%
 - Starting work on Mobs' AI.
 this will be the starting point for forced mob-aggro, air-bridging to players, 
 climbing/building over walls and obstacles... and loads more!
+
+(Jan-23-2019)
+- Distinguishes between Hostile, Passive, and non-AI mobs.
+- Adding distinctive behaviors for each type.
+- made file handler save files on shutdown...
+- when plugin loads, it checks if the server is running Spigot v1.13...
+if not, it shuts down the plugin with an error message.
