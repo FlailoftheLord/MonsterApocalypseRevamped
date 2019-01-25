@@ -29,3 +29,8 @@ climbing/building over walls and obstacles... and loads more!
 - made file handler save files on shutdown...
 - when plugin loads, it checks if the server is running Spigot v1.13...
 if not, it shuts down the plugin with an error message.
+
+(Jan-24-2019)
+- Mobs will now auto attack if you get within their range.
+- added toggle for MegaAggro and variables to control how far away the mobs will get aggro'd at you.
+- speed modifiers added.
