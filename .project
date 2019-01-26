@@ -8,4 +8,10 @@
 	</buildSpec>
 	<natures>
 	</natures>
+	<variableList>
+		<variable>
+			<name>MARevamped</name>
+			<value>file:/C:/Users/FlailoftheLord/eclipse-workspace/MA-Revamped</value>
+		</variable>
+	</variableList>
 </projectDescription>
