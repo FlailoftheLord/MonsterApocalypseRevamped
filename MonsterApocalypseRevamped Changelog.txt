@@ -34,3 +34,8 @@ if not, it shuts down the plugin with an error message.
 - Mobs will now auto attack if you get within their range.
 - added toggle for MegaAggro and variables to control how far away the mobs will get aggro'd at you.
 - speed modifiers added.
+
+(Jan-31-2019)  
+- redoing the file loading methods... the settings file isn't modifiable from the server end.
+- adding wall-attacking/block breaking, range for mobs.
+A whitelist of mobs who are allowed to break blocks, and a list of blocks that mobs can break.
