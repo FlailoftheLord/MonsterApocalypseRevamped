@@ -39,3 +39,7 @@ if not, it shuts down the plugin with an error message.
 - redoing the file loading methods... the settings file isn't modifiable from the server end.
 - adding wall-attacking/block breaking, range for mobs.
 A whitelist of mobs who are allowed to break blocks, and a list of blocks that mobs can break.
+
+(Feb-1-2019)
+- made a ton of progress on the wall attacking methods... 
+- released another experimental build on GitHub.
