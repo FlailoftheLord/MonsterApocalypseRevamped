@@ -43,3 +43,11 @@ A whitelist of mobs who are allowed to break blocks, and a list of blocks that m
 (Feb-1-2019)
 - made a ton of progress on the wall attacking methods... 
 - released another experimental build on GitHub.
+
+(Feb-11-2019)
+- Finished up wall attacking, it looks completely realistic now!
+- Beginning work on entity target AI, the abilty for any mob to shoot a player with a custom projectile... 
+And also passive mobs will be able to attack players as well... 
+This is going to take a TON of work, so don't be surprised if i don't show any progress reports for the next week or so.
+- Finally, i'll release a third build, which boasts the finalized wall attacking methods. :)
+Again, thanks for y'alls patience, i'm struggling to keep up with a number of different projects on top of this one.
