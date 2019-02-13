@@ -51,3 +51,11 @@ And also passive mobs will be able to attack players as well...
 This is going to take a TON of work, so don't be surprised if i don't show any progress reports for the next week or so.
 - Finally, i'll release a third build, which boasts the finalized wall attacking methods. :)
 Again, thanks for y'alls patience, i'm struggling to keep up with a number of different projects on top of this one.
+
+(Feb-13-2019) 
+- working on jump methods for zombie bridging/building.
+- added sounds to block breaking, suggestion from @kuncroft
+
+
+
+
