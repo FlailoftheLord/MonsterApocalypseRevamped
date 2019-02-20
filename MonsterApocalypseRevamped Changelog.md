@@ -61,7 +61,8 @@ Again, thanks for y'alls patience, i'm struggling to keep up with a number of di
  So expect to see alot of updates within the next week!\
  
 - Added Per world settings. These are exactly the same as the contents of the 'GeneralSettings.yml' file. So just copy paste!
-The world config files will be loaded up on startup, and they will be blank if you created a new world or haven't configured that world yet.
+The world config files will be loaded up on startup, and they will contain a copy 
+of your current 'GeneralSettings.yml' file if you created a new world or haven't configured that world yet.
 - Still working on block building, i have some plans in progress, which will be out in the next couple of releases, these will include
 features such as wall building, stairs, bridging across gaps, placing lava on players, shooting arrows, trapping players in cobwebs...
 and alot more that i may or may not have planned yet, feel free to give me more suggestions via discord!  :>
