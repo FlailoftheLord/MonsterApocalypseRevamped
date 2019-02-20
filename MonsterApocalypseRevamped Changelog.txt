@@ -1,7 +1,7 @@
 Henlo, i'll be posting all the updates and changes here as i progress with the recode of the plugin!
 Check back for further updates :p
 
-Estimated Completion: 12%
+Estimated Completion: 40%
 
 (Jan-17-2019) Finished Spawnpoints Command Tutorial
 
@@ -55,6 +55,17 @@ Again, thanks for y'alls patience, i'm struggling to keep up with a number of di
 (Feb-13-2019) 
 - working on jump methods for zombie bridging/building.
 - added sounds to block breaking, suggestion from @kuncroft
+
+(Feb-19-2019)
+ Sorry for the long delay in updates, i had some other plugins i was working on, i'm going to be pushing alot on this one now.
+ So expect to see alot of updates within the next week!\
+ 
+- Added Per world settings. These are exactly the same as the contents of the 'GeneralSettings.yml' file. So just copy paste!
+The world config files will be loaded up on startup, and they will be blank if you created a new world or haven't configured that world yet.
+- Still working on block building, i have some plans in progress, which will be out in the next couple of releases, these will include
+features such as wall building, stairs, bridging across gaps, placing lava on players, shooting arrows, trapping players in cobwebs...
+and alot more that i may or may not have planned yet, feel free to give me more suggestions via discord!  :>
+- Will release a fourth build with this update too, just so y'all can try out the new world settings ;p
 
 
 
