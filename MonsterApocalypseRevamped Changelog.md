@@ -69,5 +69,11 @@ and alot more that i may or may not have planned yet, feel free to give me more 
 - Will release a fourth build with this update too, just so y'all can try out the new world settings ;p
 
 
-
+(Feb-24-2019)
+ - Made block attacking more realistic, mobs won't keep breaking blocks that they can't see, and will tend to break block at eye level or that are in between then and the player they're targetting.
+ - Actually fixed per-world-settings, they should work just fine now.
+ When a new world is created, the plugin will add it to the blacklist in the 'GeneralSettings.yml' file.
+ That forces MosnterApocalypse to disable mob features in that world. To enable them simply remove the world from the 'DisabledWorlds' section in the **GeneralSettings** file.
+ 
+ I removed alot of uneccessary settings from the files, and changed up some of the formatting, so for the next release, you'll need to delete your old files again. It's going to happen a ton, as i keep changing the format of the files/ how the settings are read & setup.
 
