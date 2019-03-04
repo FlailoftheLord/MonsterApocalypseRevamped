@@ -77,3 +77,6 @@ and alot more that i may or may not have planned yet, feel free to give me more 
  
  I removed alot of uneccessary settings from the files, and changed up some of the formatting, so for the next release, you'll need to delete your old files again. It's going to happen a ton, as i keep changing the format of the files/ how the settings are read & setup.
 
+(March-3-2019)
+  - Block breaking will now have a few seconds of delay before the mobs break them. I will try and get some fancy break animations working. (If ProtocolLib is installed) hopefully next update.
+  - 
