@@ -1,7 +1,7 @@
 Henlo, i'll be posting all the updates and changes here as i progress with the recode of the plugin!
 Check back for further updates :p
 
-Estimated Completion: 40%
+Estimated Completion: 45%
 
 (Jan-17-2019) Finished Spawnpoints Command Tutorial
 
@@ -79,4 +79,10 @@ and alot more that i may or may not have planned yet, feel free to give me more 
 
 (March-3-2019)
   - Block breaking will now have a few seconds of delay before the mobs break them. I will try and get some fancy break animations working. (If ProtocolLib is installed) hopefully next update.
-  - 
+  
+(March-10-2019)
+  Sorry for dragging out the updates again...
+  - Block placing is coming along nicely, the mobs will attempt to build up untill they reach eye level with you, at which point, they'll either fall down and build back up again, or  get frustrated and start breaking blocks.
+  I will release another build on the eleventh.
+  
+  
