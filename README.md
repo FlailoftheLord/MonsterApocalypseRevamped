@@ -8,3 +8,6 @@ I will keep that up to date with my current progress on the recode!
 
 
 - Jan. 26. I'm going to pause coding for a bit as i want to focus on some of my other plugins which badly need updating/fixing...
+
+- March 17.  I think i'm about halfway done with the plugin, most of the mob controlling methods are in place and working smoothly. 
+The server lag is still a problem for me, but i'm working on decreasing that as much as possible. This is meant to be an entire-server plugin, so it shouldn't be running alongside any other gamemode plugins, or other server-management plugins.  As for extra features, i'm going to release a full build on spigotmc once i get all the minimum features working smoothly and consistently. After that, i'll start adding alot more cool and unique features. Just now i'm working on building the core of the plugin, both to be reliable and very much all-encompassing. Any feature suggestions given through discord i will add while i'm building it currently, so please give me more little tweak ideas and such.
