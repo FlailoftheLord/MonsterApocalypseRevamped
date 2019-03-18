@@ -88,3 +88,9 @@ and alot more that i may or may not have planned yet, feel free to give me more 
 (March-16-2019)
   - Began work on mob drop customization.
   
+(March-17-2019)
+  - Ability to set drops for mob deaths added, working on support for custom items.
+  
+  I will release a sixth build once i have fully tested the mob-drops settings.
+  Be sure to check for it within the next couple of days!
+  
