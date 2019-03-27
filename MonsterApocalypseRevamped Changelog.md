@@ -120,5 +120,5 @@ and alot more that i may or may not have planned yet, feel free to give me more 
   ```
   This means that it will drop 1 cobblestone with a 75% chance, 3 dirt with a 100% chance, 5 bread at 23% chance, and one stone shovel (100% chance)
   the format being: `- <item>:<amount>:<chance>`
-  
+  I will release a seventh build alongside this.
   
