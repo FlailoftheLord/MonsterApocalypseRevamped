@@ -98,3 +98,27 @@ and alot more that i may or may not have planned yet, feel free to give me more 
   - Wrapping up Mob drops.
   I should have the next build out by March 22nd
   
+(March-26-2019)
+  - Mob drops are 100% functional.
+  Featuring a fully customizable item drop support, as well as options for amount and chance.
+  
+  To manually add custom items, (like items from another plugin) simply type **/ma editdrops <mob-name>**
+  It will open a GUI where you can put any items in that you want, any existing Custom drops for that mob will be shown in the gui, and you can manually edit them from there.
+  Items are saved automatically once you close the GUI.
+  There is a chance option in each mob's settings file labaled *'CustomItemDropChance'*
+  This means that it will randomly pick **one** item out of the list and add it to the mob's drops using that percentage chance.
+  I will try and add unique chances for each custom item soon. But this system will have to suffice for now.
+  
+  You can also add custom drops the normal way, under the *'Drops'* section, just add the block name you want and optionally the amount and percentage chance to drop.
+  Follow this format:
+  ```
+    Drops:
+    - cobblestone:1:75
+    - dirt:3
+    - bread:5:23
+    - stone_shovel
+  ```
+  This means that it will drop 1 cobblestone with a 75% chance, 3 dirt with a 100% chance, 5 bread at 23% chance, and one stone shovel (100% chance)
+  the format being: `- <item>:<amount>:<chance>`
+  
+  
