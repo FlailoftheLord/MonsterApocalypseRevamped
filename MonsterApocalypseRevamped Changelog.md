@@ -122,3 +122,6 @@ and alot more that i may or may not have planned yet, feel free to give me more 
   the format being: `- <item>:<amount>:<chance>`
   I will release a seventh build alongside this.
   
+(April-1-2019)
+  Added tab-completion & changed up some commands.
+  
