@@ -125,3 +125,12 @@ and alot more that i may or may not have planned yet, feel free to give me more 
 (April-1-2019)
   Added tab-completion & changed up some commands.
   
+(April-9-2019)
+  Added WorldGuard support (make sure you're using the latest v7.0.0 worldguard for 1.13+)
+  There are two custom flags for now, which you can add to regions.
+    **monster-apocalypse-build** and **monster-apocalypse-destroy** If set to 'deny' in a region, will prevent mobs from breaking/placing blocks in that region.
+  I will eventually add a-lot more flags which you can use to customize what mobs can do, such as entering a region, spawning in a region & more.
+  Again, more on that later :D
+  
+  Released an eighth build with this update also.
+  
