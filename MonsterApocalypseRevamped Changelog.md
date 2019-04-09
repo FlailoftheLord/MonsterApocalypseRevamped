@@ -1,7 +1,7 @@
 Henlo, i'll be posting all the updates and changes here as i progress with the recode of the plugin!
 Check back for further updates :p
 
-Estimated Completion: 45%
+Estimated Completion: 60%
 
 (Jan-17-2019) Finished Spawnpoints Command Tutorial
 
