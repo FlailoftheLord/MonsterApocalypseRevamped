@@ -134,3 +134,7 @@ and alot more that i may or may not have planned yet, feel free to give me more 
   
   Released an eighth build with this update also.
   
+(April-11-2019) 
+  Working on advanced block placement. This will include stairs, bridges and walls.
+  ... more on this later ;P
+  
