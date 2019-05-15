@@ -141,3 +141,14 @@ and alot more that i may or may not have planned yet, feel free to give me more 
 (May-14-2019)
   Picking back up on complex block placement.
   It's been a while! 
+  
+(May-15-2019)
+  Added block decaying, blocks placed by mobs will decay after a certain amount of time.
+  **WARNING** If you reload MonsterApocalypse, or restart the server, any placed blocks WILL NOT decay. 
+  Instead, if you have CoreProtect installed, use `/co rollback r:<radius> t:<time>` and it will restore all block placements to their previous state.
+  settings are in the `GeneralSettings.yml` file under **BlockBuilding -> BlockDecay & BlockDecayTime** the Block decay time is in *seconds*.
+  
+  I'll be releasing the ninth build today as well ;)
+  
+  Again, if you find any issues with this build, please let me know on discord!
+  
