@@ -138,3 +138,6 @@ and alot more that i may or may not have planned yet, feel free to give me more 
   Working on advanced block placement. This will include stairs, bridges and walls.
   ... more on this later ;P
   
+(May-14-2019)
+  Picking back up on complex block placement.
+  It's been a while! 
