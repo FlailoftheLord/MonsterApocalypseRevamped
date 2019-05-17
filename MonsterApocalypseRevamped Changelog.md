@@ -153,3 +153,7 @@ and alot more that i may or may not have planned yet, feel free to give me more 
   
   Again, if you find any issues with this build, please let me know on discord!
   
+(May-17-2019)
+  Added mob types, Ranged and Meele.
+  can be customized in the MobSettings.yml file
+  
