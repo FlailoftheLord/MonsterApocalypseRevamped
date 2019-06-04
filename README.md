@@ -32,4 +32,4 @@ The server lag is still a problem for me, but i'm working on decreasing that as 
 
 - April 24.  Going to be pausing progress on this project for a few weeks... I have alot of school to do right now, as well as several plugins which desperately need updating. See y'all in May!
 
-- May 14.  I can start work back up on this project again! First things first, i'm upgrading it for 1.14 servers ;P
+- May 14.  I can start work back up on this project again! First things first, i'll hopefully be able to get it working on both 1.13 & 1.14 servers ;p
