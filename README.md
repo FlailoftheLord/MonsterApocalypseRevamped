@@ -17,7 +17,7 @@ I will keep that up to date with my current progress on the recode!
    ProtocolLib is just used for some QOL features, such as block breaking animations, mob animations and such.
   
   
-  - **WorldGuard**  use version rc 1  https://dev.bukkit.org/projects/worldguard/files/2710977/download
+  - **WorldGuard**  use version beta 3 https://dev.bukkit.org/projects/worldguard/files/2663455/download
   
   - **CoreProtect**  use version 1.16.3 https://www.spigotmc.org/resources/coreprotect.8631/download?version=264694
   
