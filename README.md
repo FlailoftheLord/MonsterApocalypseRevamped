@@ -9,12 +9,12 @@ I will keep that up to date with my current progress on the recode!
 # Dependencies
   All of these are optional, and MonsterApocalypse will work without them.
     
-    WorldGuard can be used to define custom flags for regions, either denying or allowing block breaking and building.
+   WorldGuard can be used to define custom flags for regions, either denying or allowing block breaking and building.
   use the flags **monsterapocalypse-destroy** and **monsterapocalypse-build** if you have WorldGuard installed.
     
-    CoreProtect is used for block logging & rollbacks, you can enable the hook in the *config.yml* file.  This allows you to rollback    blocks/areas that were modified by mobs, for example, mobs placing blocks, can be rolled back using CoreProtect.
+   CoreProtect is used for block logging & rollbacks, you can enable the hook in the *config.yml* file.  This allows you to rollback    blocks/areas that were modified by mobs, for example, mobs placing blocks, can be rolled back using CoreProtect.
   
-    ProtocolLib is just used for some QOL features, such as block breaking animations, mob animations and such.
+   ProtocolLib is just used for some QOL features, such as block breaking animations, mob animations and such.
   
   
   - **WorldGuard**  use version beta 3 https://dev.bukkit.org/projects/worldguard/files/2663455/download
