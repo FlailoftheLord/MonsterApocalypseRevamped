@@ -157,3 +157,6 @@ and alot more that i may or may not have planned yet, feel free to give me more 
   Added mob types, Ranged and Meele.
   can be customized in the MobSettings.yml file
   
+(June-4-2019)
+   Fixed a crap ton of block-related bugs & reduced server lag a ton, Worlds are only checked if there are players inside, and players who aren't in creative or spectator mode are ignored.
+   I'll release a 10th build as well today.
