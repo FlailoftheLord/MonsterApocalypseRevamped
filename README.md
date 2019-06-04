@@ -7,10 +7,12 @@ You can keep up with my progress in the 'MonsterApocalypseRevamped Changelog.txt
 I will keep that up to date with my current progress on the recode!
 
 # Dependencies
-  - WorldGuard  use version beta 3 https://dev.bukkit.org/projects/worldguard/files/2663455/download
-  - CoreProtect  use version 1.16.3 https://www.spigotmc.org/resources/coreprotect.8631/download?version=264694
-  - ProtocolLib  use version 4.4.0  https://www.spigotmc.org/resources/protocollib.1997/download?version=241216
-
+  -WorldGuard  use version beta 3 https://dev.bukkit.org/projects/worldguard/files/2663455/download
+  -
+  -CoreProtect  use version 1.16.3 https://www.spigotmc.org/resources/coreprotect.8631/download?version=264694
+  -
+  -ProtocolLib  use version 4.4.0  https://www.spigotmc.org/resources/protocollib.1997/download?version=241216 
+  -
 
 # Changelog
 - Jan. 26. I'm going to pause coding for a bit as i want to focus on some of my other plugins which badly need updating/fixing...
