@@ -25,6 +25,8 @@ I will keep that up to date with my current progress on the recode!
   
 
 # Changelog
+Read the full changelog here: https://github.com/FlailoftheLord/MonsterApocalypseRevamped/blob/master/MonsterApocalypseRevamped%20Changelog.md
+ 
 - Jan. 26. I'm going to pause coding for a bit as i want to focus on some of my other plugins which badly need updating/fixing...
 
 - March 17.  I think i'm about halfway done with the plugin, most of the mob controlling methods are in place and working smoothly. 
