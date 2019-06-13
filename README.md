@@ -1,4 +1,4 @@
-# MonsterApocalypseRevamped
+# MonsterApocalypseRevamped (Spigot v1.14.2)
 
 I'll be posting experimental builds within a week, depending on how the progress goes.
 
