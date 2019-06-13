@@ -18,21 +18,12 @@ I will keep that up to date with my current progress on the recode!
    If there are errors on startup, make sure you install ProtobolLib before contacting me, because it's most likely just something that needed to use it.
   
   
-  - **WorldGuard**  use version beta 3 https://dev.bukkit.org/projects/worldguard/files/2663455/download
+  - **WorldGuard**  use version 7.0.0  https://dev.bukkit.org/projects/worldguard/files/2723606/download
   
-  - **CoreProtect**  use version 1.16.3 https://www.spigotmc.org/resources/coreprotect.8631/download?version=264694
+  - **CoreProtect**  use version 1.17.5  https://www.spigotmc.org/resources/coreprotect.8631/download?version=276365
   
-  - **ProtocolLib**  use version 4.4.0  https://www.spigotmc.org/resources/protocollib.1997/download?version=241216 
+  - **ProtocolLib**  use build #425  http://ci.dmulloy2.net/job/ProtocolLib/425/
   
 
 # Changelog
 Read the full changelog here: https://github.com/FlailoftheLord/MonsterApocalypseRevamped/blob/master/MonsterApocalypseRevamped%20Changelog.md
- 
-- Jan. 26. I'm going to pause coding for a bit as i want to focus on some of my other plugins which badly need updating/fixing...
-
-- March 17.  I think i'm about halfway done with the plugin, most of the mob controlling methods are in place and working smoothly. 
-The server lag is still a problem for me, but i'm working on decreasing that as much as possible. This is meant to be an entire-server plugin, so it shouldn't be running alongside any other gamemode plugins, or other server-management plugins.  As for extra features, i'm going to release a full build on spigotmc once i get all the minimum features working smoothly and consistently. After that, i'll start adding alot more cool and unique features. Just now i'm working on building the core of the plugin, both to be reliable and very much all-encompassing. Any feature suggestions given through discord i will add while i'm building it currently, so please give me more little tweak ideas and such.
-
-- April 24.  Going to be pausing progress on this project for a few weeks... I have alot of school to do right now, as well as several plugins which desperately need updating. See y'all in May!
-
-- May 14.  I can start work back up on this project again! First things first, i'll hopefully be able to get it working on both 1.13 & 1.14 servers ;p
