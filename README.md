@@ -15,6 +15,7 @@ I will keep that up to date with my current progress on the recode!
    CoreProtect is used for block logging & rollbacks, you can enable the hook in the *config.yml* file.  This allows you to rollback    blocks/areas that were modified by mobs, for example, mobs placing blocks, can be rolled back using CoreProtect.
   
    ProtocolLib is just used for some QOL features, such as block breaking animations, mob animations and such.
+   If there are errors on startup, make sure you install ProtobolLib before contacting me, because it's most likely just something that needed to use it.
   
   
   - **WorldGuard**  use version beta 3 https://dev.bukkit.org/projects/worldguard/files/2663455/download
