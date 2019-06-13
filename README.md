@@ -1,10 +1,7 @@
 # MonsterApocalypseRevamped (Spigot v1.14.2)
 
-I'll be posting experimental builds within a week, depending on how the progress goes.
-
-You can keep up with my progress in the 'MonsterApocalypseRevamped Changelog.txt'
-
-I will keep that up to date with my current progress on the recode!
+This branch is for the 1.14 version of MonsterApocalypse, I'll update this as changes differ from the 1.13 version.
+And eventually, will drop support for 1.13 once the final minecraft 1.14 version is released, and stable on spigot.
 
 # Dependencies
   All of these are optional, and MonsterApocalypse will work without them.
