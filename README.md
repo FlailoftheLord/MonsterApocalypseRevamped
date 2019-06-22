@@ -6,7 +6,7 @@ You can keep up with my progress in the 'MonsterApocalypseRevamped Changelog.txt
 
 I will keep that up to date with my current progress on the recode!
 
-Here's the last 1.13.2 build i'm going to be making, all progress has been moved to the 1.14 branch
+Here's the last 1.13.2 build i'm going to be making, all progress has been moved to the [link=https://github.com/FlailoftheLord/MonsterApocalypseRevamped/blob/1.14/README.md]1.14 branch[/link]
 https://github.com/FlailoftheLord/MonsterApocalypseRevamped/releases/tag/v1.0.10
 
 # Dependencies
