@@ -164,8 +164,8 @@ and alot more that i may or may not have planned yet, feel free to give me more 
 (June-12-2019)
    Updated the entire plugin to Spigot v1.14.2
    I'll link the new Dependency downloads in the **README.md** file
-    The 11th build will be out within another week. If i can get everything working well, maybe sooner.
- 
+   The 11th build will be out within another week. If i can get everything working well, maybe sooner.
+
 (June-22-2019)
    Well, I finally got everything working!
     And I can release a fully-functional build for **Spigot v1.14.2**
