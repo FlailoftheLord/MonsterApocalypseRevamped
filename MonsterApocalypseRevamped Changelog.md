@@ -166,3 +166,9 @@ and alot more that i may or may not have planned yet, feel free to give me more 
    I'll link the new Dependency downloads in the **README.md** file
     The 11th build will be out within another week. If i can get everything working well, maybe sooner.
    
+(June-22-2019)
+   Well, I finally got everything working!
+    And I can release a fully-functional build for **Spigot v1.14.2**
+    This will be buid #12 (*11'th release*)
+   *Links to the 1.14.2 dependencies can be found under the 1.14 branch **README.md***
+    
