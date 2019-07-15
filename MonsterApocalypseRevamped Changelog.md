@@ -165,3 +165,7 @@ and alot more that i may or may not have planned yet, feel free to give me more 
    Updated the entire plugin to Spigot v1.14.2
    I'll link the new Dependency downloads in the **README.md** file
     The 11th build will be out within another week. If i can get everything working well, maybe sooner.    
+    
+(July-15-2019)
+   Fixed several issues in the 1.13.2 version.
+   re-download **build #10** (updated today)
