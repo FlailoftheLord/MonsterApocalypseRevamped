@@ -6,7 +6,7 @@ And eventually, will drop support for 1.13 once the final minecraft 1.14 version
 # Dependencies
   All of these are optional, and MonsterApocalypse will work without them.
   
-  Note: this works for spigot v1.14.2 ONLY, unless otherwise specified
+  Note: this works for spigot v1.14.1+ unless otherwise specified
     
    WorldGuard can be used to define custom flags for regions, either denying or allowing block breaking and building.
   use the flags **monsterapocalypse-destroy** and **monsterapocalypse-build** if you have WorldGuard installed.
