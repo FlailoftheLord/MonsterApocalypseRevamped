@@ -171,3 +171,12 @@ and alot more that i may or may not have planned yet, feel free to give me more 
     And I can release a fully-functional build for **Spigot v1.14.2**
     This will be buid #12 (*11'th release*)
    *Links to the 1.14.2 dependencies can be found under the 1.14 branch **README.md***
+
+(September-2-2019)
+   After too many issues and breakdowns, the new Block Attacking system is coming along to the point of almost being done.
+   Once I can get that finished, I will get to work on mob's building AI and some more tricky checks.
+   
+   Also, I have added natural spawn bonuses/multipliers, aggro multipliers, forced passive mobs, and several debug tools to help me gather info      when a user submits a bug to me.
+   
+  I can't say for sure when the next release will be, so apologies for the long wait. It's difficult for me to get alot done in a short amount of time as I still struggle with Java proficiency.
+  
