@@ -180,3 +180,9 @@ and alot more that i may or may not have planned yet, feel free to give me more 
    
   I can't say for sure when the next release will be, so apologies for the long wait. It's difficult for me to get alot done in a short amount of time as I still struggle with Java proficiency.
   
+(September-3-2019)
+  Block Attacking works wonderfully, I'm really glad i was able to figure everything out with the new system I've started on.
+  The basics are in place, this will not only be more efficient, but less laggy on the server and more intense on the part of the player as the mobs will viciously mine towards you no matter where you are.
+  
+  I also added an option to the settings `BlockAttacking.MaxHorizontalDistance` which defines close (horizontally) a mob needs to be before they will begin breaking blocks to get closer.
+  
