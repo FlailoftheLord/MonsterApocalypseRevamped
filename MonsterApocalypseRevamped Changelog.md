@@ -186,3 +186,11 @@ and alot more that i may or may not have planned yet, feel free to give me more 
   
   I also added an option to the settings `BlockAttacking.MaxHorizontalDistance` which defines close (horizontally) a mob needs to be before they will begin breaking blocks to get closer.
   
+(September-13-2019)
+  Adding better building, such as towering when out of range, and not stack-build-walking...
+  Also adding saftey for some mobs, so they will not walk off a tower and die, instead they will bridge towards the target player, or toss projectiles.
+  Mobs who are above will staircase down instead of faling on the player and taking fall damage.
+  All blocks will now be broken when building down if any are in the way.
+  
+  CoreProtect now logs mob block places as well as block breaks... oops!
+  
