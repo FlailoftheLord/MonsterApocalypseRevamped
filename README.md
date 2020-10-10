@@ -30,7 +30,7 @@ https://github.com/FlailoftheLord/MonsterApocalypseRevamped/blob/1.14/README.md~
   
   - **CoreProtect**  use version 19.2 https://www.spigotmc.org/resources/coreprotect.8631/download?version=355730
   
-  - **ProtocolLib**  use latest version https://ci.dmulloy2.net/job/ProtocolLib/latest/
+  - **ProtocolLib**  use latest version https://ci.dmulloy2.net/job/ProtocolLib/lastSuccessfulBuild/
   
 
 # Changelog
