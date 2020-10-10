@@ -169,3 +169,7 @@ and alot more that i may or may not have planned yet, feel free to give me more 
 (July-15-2019)
    Fixed several issues in the 1.13.2 version.
    re-download **build #10** (updated today)
+   
+(October-10-2020)
+   Working version updated for mc1.16.3
+   Settings files have changed (settings are always per-world, disabled worlds are set in `GeneralSettings.yml`)
