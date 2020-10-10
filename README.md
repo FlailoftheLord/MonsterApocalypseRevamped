@@ -9,13 +9,13 @@ I will keep that up to date with my current progress on the recode!
 Here's the last 1.13.2 build i'm going to be making.
 https://github.com/FlailoftheLord/MonsterApocalypseRevamped/releases/tag/v1.0.10
 
-All Progress has been moved to the 1.14 branch, as I'll be building this for 1.14, as it becomes more stable!
-https://github.com/FlailoftheLord/MonsterApocalypseRevamped/blob/1.14/README.md
+~~All Progress has been moved to the 1.14 branch, as I'll be building this for 1.14, as it becomes more stable!
+https://github.com/FlailoftheLord/MonsterApocalypseRevamped/blob/1.14/README.md~~
 
 # Dependencies
   All of these are optional, and MonsterApocalypse will work without them.
   
-  Note: this works for spigot v1.13.2 ONLY, unless otherwise specified
+  Note: this works for spigot v1.16.3 ONLY, unless otherwise specified
     
    WorldGuard can be used to define custom flags for regions, either denying or allowing block breaking and building.
   use the flags **monsterapocalypse-destroy** and **monsterapocalypse-build** if you have WorldGuard installed.
@@ -26,21 +26,12 @@ https://github.com/FlailoftheLord/MonsterApocalypseRevamped/blob/1.14/README.md
    If there are errors on startup, make sure you install ProtobolLib before contacting me, because it's most likely just something that needed to use it.
   
   
-  - **WorldGuard**  use version beta 3 https://dev.bukkit.org/projects/worldguard/files/2663455/download
+  - **WorldGuard**  use version 7.0.4 https://dev.bukkit.org/projects/worldguard/files/3066271
   
-  - **CoreProtect**  use version 1.16.3 https://www.spigotmc.org/resources/coreprotect.8631/download?version=264694
+  - **CoreProtect**  use version 19.2 https://www.spigotmc.org/resources/coreprotect.8631/download?version=355730
   
-  - **ProtocolLib**  use version 4.4.0  https://www.spigotmc.org/resources/protocollib.1997/download?version=241216 
+  - **ProtocolLib**  use latest version https://ci.dmulloy2.net/job/ProtocolLib/latest/
   
 
 # Changelog
 Read the full changelog here: https://github.com/FlailoftheLord/MonsterApocalypseRevamped/blob/master/MonsterApocalypseRevamped%20Changelog.md
- 
-- Jan. 26. I'm going to pause coding for a bit as i want to focus on some of my other plugins which badly need updating/fixing...
-
-- March 17.  I think i'm about halfway done with the plugin, most of the mob controlling methods are in place and working smoothly. 
-The server lag is still a problem for me, but i'm working on decreasing that as much as possible. This is meant to be an entire-server plugin, so it shouldn't be running alongside any other gamemode plugins, or other server-management plugins.  As for extra features, i'm going to release a full build on spigotmc once i get all the minimum features working smoothly and consistently. After that, i'll start adding alot more cool and unique features. Just now i'm working on building the core of the plugin, both to be reliable and very much all-encompassing. Any feature suggestions given through discord i will add while i'm building it currently, so please give me more little tweak ideas and such.
-
-- April 24.  Going to be pausing progress on this project for a few weeks... I have alot of school to do right now, as well as several plugins which desperately need updating. See y'all in May!
-
-- May 14.  I can start work back up on this project again! First things first, i'll hopefully be able to get it working on both 1.13 & 1.14 servers ;p
