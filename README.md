@@ -9,6 +9,9 @@ I will keep that up to date with my current progress on the recode!
 Here's the last 1.13.2 build i'm going to be making.
 https://github.com/FlailoftheLord/MonsterApocalypseRevamped/releases/tag/v1.0.10
 
+Latest build for 1.14.4 (may have issues)
+https://github.com/FlailoftheLord/MonsterApocalypseRevamped/releases/tag/v1.0.12a
+
 ~~All Progress has been moved to the 1.14 branch, as I'll be building this for 1.14, as it becomes more stable!
 https://github.com/FlailoftheLord/MonsterApocalypseRevamped/blob/1.14/README.md~~
 
