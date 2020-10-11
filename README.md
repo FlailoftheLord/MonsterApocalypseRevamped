@@ -1,7 +1,5 @@
 # MonsterApocalypseRevamped (Spigot v1.14.1+)
-
-This branch is for the 1.14 version of MonsterApocalypse, I'll update this as changes differ from the 1.13 version.
-And eventually, will drop support for 1.13 once the final minecraft 1.14 version is released, and stable on spigot.
+Deprecated branch, see `master` for full changes. (1.16+)
 
 # Dependencies
   All of these are optional, and MonsterApocalypse will work without them.
